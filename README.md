@@ -14,7 +14,7 @@
   #### :mortar_board: I am double majoring in Media Technology and Computer Science.<br/>
   <br/>
   
-  ## 🧱 Tech Stack
+  ## 🧱 Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
