@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a sophomore at Hanyang University ERICA.<br/>
+  #### :raising_hand: I am a junior at Hanyang University ERICA.<br/>
   #### :fire: To be a Front-End Developer, I'm constantly trying to study and search.<br/>
   #### :mortar_board: I am double majoring in Media Technology and Computer Science.<br/>
   <br/>
