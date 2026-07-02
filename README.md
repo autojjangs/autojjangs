@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a junior at Hanyang University ERICA.<br/>
-  #### :fire: To be a Front-End Developer, I'm constantly trying to study and search.<br/>
+  #### :fire: To be an expert, I'm constantly trying to study and research.<br/>
   #### :mortar_board: I am double majoring in Media Technology and Computer Science.<br/>
   <br/>
   
@@ -19,7 +19,7 @@
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--C-->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> -->
   <!--Dart-->
   <!-- <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> -->
   <!--Kotlin-->
